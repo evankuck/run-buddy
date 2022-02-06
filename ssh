@@ -1,0 +1,40 @@
+total 7148
+drwxr-xr-x 1 evank 197609       0 Feb  5 19:26 ./
+drwxr-xr-x 1 evank 197609       0 Sep 20 15:13 ../
+-rw-r--r-- 1 evank 197609     127 Jul 29  2021 .bash_history
+drwxr-xr-x 1 evank 197609       0 Feb  5 18:30 .git/
+-rw-r--r-- 1 evank 197609     309 Feb  5 19:11 .gitconfig
+-rw-r--r-- 1 evank 197609      20 Feb  5 19:26 .lesshst
+drwxr-xr-x 1 evank 197609       0 Feb  6 16:31 .ssh/
+drwxr-xr-x 1 evank 197609       0 Jul 31  2021 .vscode/
+drwxr-xr-x 1 evank 197609       0 Sep 20 15:20 3D Objects/
+drwxr-xr-x 1 evank 197609       0 Sep 20 15:14 AppData/
+lrwxrwxrwx 1 evank 197609      30 Sep 20 15:13 Application Data -> /c/Users/evank/AppData/Roaming/
+drwxr-xr-x 1 evank 197609       0 Sep 20 15:20 Contacts/
+lrwxrwxrwx 1 evank 197609      58 Sep 20 15:13 Cookies -> /c/Users/evank/AppData/Local/Microsoft/Windows/INetCookies/
+drwxr-xr-x 1 evank 197609       0 Jun  1  2021 Documents/
+drwxr-xr-x 1 evank 197609       0 Feb  2 21:49 Downloads/
+drwxr-xr-x 1 evank 197609       0 Sep 20 15:20 Favorites/
+drwxr-xr-x 1 evank 197609       0 Feb  6 17:28 IntelGraphicsProfiles/
+drwxr-xr-x 1 evank 197609       0 Sep 20 15:20 Links/
+lrwxrwxrwx 1 evank 197609      28 Sep 20 15:13 Local Settings -> /c/Users/evank/AppData/Local/
+drwxr-xr-x 1 evank 197609       0 Sep 20 15:20 Music/
+lrwxrwxrwx 1 evank 197609      24 Sep 20 15:13 My Documents -> /c/Users/evank/Documents/
+lrwxrwxrwx 1 evank 197609      66 Sep 20 15:13 NetHood -> /c/Users/evank/AppData/Roaming/Microsoft/Windows/Network Shortcuts/
+-rw-r--r-- 1 evank 197609 4456448 Feb  6 16:41 NTUSER.DAT
+-rw-r--r-- 1 evank 197609 1388544 Sep 20 15:13 ntuser.dat.LOG1
+-rw-r--r-- 1 evank 197609  294912 Sep 20 15:13 ntuser.dat.LOG2
+-rw-r--r-- 1 evank 197609   65536 Sep 20 15:13 NTUSER.DAT{fbbff145-1a4e-11ec-a535-a79944eab842}.TM.blf
+-rw-r--r-- 1 evank 197609  524288 Sep 20 15:13 NTUSER.DAT{fbbff145-1a4e-11ec-a535-a79944eab842}.TMContainer00000000000000000001.regtrans-ms
+-rw-r--r-- 1 evank 197609  524288 Sep 20 15:13 NTUSER.DAT{fbbff145-1a4e-11ec-a535-a79944eab842}.TMContainer00000000000000000002.regtrans-ms
+-rw-r--r-- 1 evank 197609      20 Sep 20 15:20 ntuser.ini
+drwxr-xr-x 1 evank 197609       0 Dec  6 11:36 OneDrive/
+lrwxrwxrwx 1 evank 197609      66 Sep 20 15:13 PrintHood -> /c/Users/evank/AppData/Roaming/Microsoft/Windows/Printer Shortcuts/
+drwxr-xr-x 1 evank 197609       0 Feb  5 14:41 Projects/
+lrwxrwxrwx 1 evank 197609      55 Sep 20 15:13 Recent -> /c/Users/evank/AppData/Roaming/Microsoft/Windows/Recent/
+drwxr-xr-x 1 evank 197609       0 Sep 20 15:20 Saved Games/
+drwxr-xr-x 1 evank 197609       0 Sep 20 15:20 Searches/
+lrwxrwxrwx 1 evank 197609      55 Sep 20 15:13 SendTo -> /c/Users/evank/AppData/Roaming/Microsoft/Windows/SendTo/
+lrwxrwxrwx 1 evank 197609      59 Sep 20 15:13 Start Menu -> /c/Users/evank/AppData/Roaming/Microsoft/Windows/Start Menu/
+lrwxrwxrwx 1 evank 197609      58 Sep 20 15:13 Templates -> /c/Users/evank/AppData/Roaming/Microsoft/Windows/Templates/
+drwxr-xr-x 1 evank 197609       0 Sep 20 15:20 Videos/
